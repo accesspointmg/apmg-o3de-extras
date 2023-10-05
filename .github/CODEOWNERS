@@ -7,8 +7,8 @@
 # SIG-Docs-Community
 
 # SIG-Graphics-Audio (@o3de/sig-graphics-audio-maintainers @o3de/sig-graphics-audio-reviewers)
-Gems/OpenXRVk/ @o3de/sig-platform-reviewers @o3de/sig-platform-maintainers
-Gems/XR/ @o3de/sig-platform-reviewers @o3de/sig-platform-maintainers
+Gems/OpenXRVk/ @o3de/sig-graphics-audio-maintainers @o3de/sig-graphics-audio-reviewers
+Gems/XR/ @o3de/sig-graphics-audio-maintainers @o3de/sig-graphics-audio-reviewers
 
 # SIG-Network (@o3de/sig-network-maintainers)
 Templates/Multiplayer/ @o3de/sig-network-maintainers
