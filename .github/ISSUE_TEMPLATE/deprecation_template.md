@@ -2,7 +2,7 @@
 name: Deprecation Notice
 about: A notice for one or more feature or API deprecations
 title: 'Deprecation Notice'
-labels: 'needs-triage,needs-sig,kind/deprecation'
+labels: 'needs-priority,needs-triage,needs-sig,kind/deprecation'
 
 ---
 
